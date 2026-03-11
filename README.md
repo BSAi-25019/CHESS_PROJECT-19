@@ -15,7 +15,10 @@ A complete, fully featured chess game built from scratch in standard C++ (1,700+
 * **Game State Management:** Includes robust File I/O to **Save** and **Load** ongoing games, as well as options to Resign or Quit mid-match.
 
 ## 📸 Interface Preview
-*(Screenshot coming soon!)*
+<img width="1897" height="885" alt="Menu" src="https://github.com/user-attachments/assets/99091f22-6f22-4950-b4b7-6583cccec69a" />
+<img width="1918" height="1001" alt="Interface" src="https://github.com/user-attachments/assets/2b60d8f7-2d9d-49c0-8e19-963607f5ad85" />
+
+
 
 ## 💻 Tech Stack & Concepts
 * **Language:** C++
